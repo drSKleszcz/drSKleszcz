@@ -1,7 +1,9 @@
 # 💫 About Me:
-Software and R\&D Engineer with 5+ years of experience developing simulation engines, data analysis pipelines, and backend tools for energy-tech R\&D. Specialized in Python-based modeling, automation, and decision-support systems used in real-world industrial settings. Proven track record in building performant code, improving engineering workflows, and collaborating across multidisciplinary teams to deliver measurable value.
+Software & R&D Engineer | Energy Systems | Python | Simulation & Automation
 
-With a PhD in Engineering and over five years as an R&D Engineer specializing in energy systems, my career has been dedicated to driving innovation in the energy sector. I bring a strong foundation in project management, design, and techno-economic analysis, supported by extensive academic and practical experience. My expertise includes CFD, 0D/1D simulation, and advanced analysis techniques, which I apply by blending theoretical insights with hands-on implementation. I have a proven track record of enhancing product efficiency, accuracy, and market viability through innovative solutions, advanced research, and practical prototyping.
+Engineer with 5+ years of experience developing simulation engines, data pipelines, and backend tools for energy-tech applications. Specialized in Python-based modeling, automation, and decision-support systems deployed in real-world industrial settings. Holds a Ph.D. in Engineering with a focus on control systems and simulation-based optimization.
+
+Combines a deep academic background with practical, hands-on R&D expertise in CFD, 0D/1D simulations, and techno-economic analysis. Proven ability to lead cross-functional projects, streamline engineering workflows, and deliver solutions that enhance product performance, accuracy, and business impact.
 
 
 ## 🌐 Socials:
